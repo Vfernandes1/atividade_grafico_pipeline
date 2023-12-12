@@ -3,7 +3,27 @@
 ## Aluno: Vinícius Oliveira Fernandes
 ## Professor: Afonso Brandão 
 
-## Gráfico de Impacto do Dolár nas Vendas (Dados do Bacen + Dados da API do Cliente)
+### Dashboard
+
+![image (33)](https://github.com/Vfernandes1/teste_de_hipotese_automatico_M-C_Solutions/assets/99264567/c83629cf-9c9e-47d3-9f6c-da1323f4f422)
+
+### Gráficos plotados
+
+1. Venda de Arroz e Carne por Estado: Este é um gráfico de barras verticais que mostra a venda total de arroz e carne em diferentes estados, indicados pelas siglas dos estados no eixo X. SP tem as vendas mais altas, seguido por RJ e MG. Podemos inferir que esses estados possuem uma demanda maior, possivelmente devido à sua população ou preferências alimentares.
+
+2. Desvio Padrão da Taxa de Inflação nas Vendas em SP: Este é um medidor que indica o desvio padrão da taxa de inflação nas vendas em SP de 0.19.
+
+3. Soma da Renda Total dos Moradores por UF: É um gráfico de barras verticais mostrando a soma total da renda dos moradores por unidade federativa. São Paulo lidera novamente, o que pode estar correlacionado com as altas vendas observadas no primeiro gráfico.
+
+4. Taxa Selic x Vendas dos Produtos: Este é um gráfico linear com produtos no eixo X e a taxa selic no Y. Todos os produtos foram vendidos em uma época de taxa constante, sugerindo estabilidade nas vendas desses itens específicos ao longo do tempo, e que não houve variação determinante na Selic no tempo em que estes produtos foram vendidos.
+
+5. Média de calorias no Consumo Alimentar por semana: É um gráfico de barras horizontais com os dias da semana no eixo X e as calorias médias consumidas no Y. O consumo calórico parece ser consistente ao longo da semana, sem picos significativos ou quedas.
+
+Exemplos de Inferências feitas nos gráficos 3 e 4: A alta renda total em SP pode ser uma razão para as elevadas vendas neste estado; há uma correlação visível aqui. A estabilidade na taxa selic das vendas dos produtos sugere que não houve eventos significativos ou mudanças nos padrões de compra durante o período analisado.
+
+## Segue alguns outros gráficos realizados pelo grupo no Metabase (de forma complementar), e suas inferências
+
+### Gráfico de Impacto do Dolár nas Vendas (Dados do Bacen + Dados da API do Cliente)
 
 ![image (32)](https://github.com/Vfernandes1/teste_de_hipotese_automatico_M-C_Solutions/assets/99264567/f2457912-2faa-4bbf-ae07-4c362f19d556)
 
@@ -11,7 +31,7 @@ O gráfico mostra o impacto do valor do dólar sobre as vendas. A linha no gráf
 
 A sua visualização pode ser definida num gráfico linear com uma linha descendente. O eixo Y representa as vendas, variando de 0 a um pouco acima de 50. O eixo X representa o valor do dólar em diferentes intervalos. Há sete pontos no gráfico indicando diferentes valores das vendas em relação aos valores específicos do dólar. A cor da linha é roxa com marcadores circulares nos pontos de dados.
 
-## Mediana de preço por produto em rondonia
+### Mediana de preço por produto em rondonia
 
 ![image (32)](https://github.com/Vfernandes1/teste_de_hipotese_automatico_M-C_Solutions/assets/99264567/f64c5602-8ed0-4f84-9d12-713e4fc49541)
 
