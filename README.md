@@ -38,17 +38,3 @@ A sua visualização pode ser definida num gráfico linear com uma linha descend
 O gráfico mostra a mediana de preço para diferentes produtos em Rondônia. Os produtos listados são: Arroz, Açúcar, Batata Palha, Carne, Cerveja, Feijão, Ketchup, Macarrão, Molho de Tomate e Queijo. As medianas de preço variam para cada produto. As medianas de preço variam para cada produto. Podemos ver que a cerveja e o molho de tomate têm os preços medianos mais altos entre os produtos listados, enquanto a basta plástica tem um dos preços medianos mais baixos. Isso pode ser útil para os consumidores que desejam comparar preços entre diferentes produtos.
 
 O tipo utilizado foi o de barras, com o propósito de visualizar a mediana da melhor mais possível. O eixo X é rotulado como “Produto” e lista dez produtos diferentes. O eixo Y é rotulado como “Mediana de Preço” e mostra uma escala de 0 a 700. Cada barra representa a mediana de preço de cada produto em Rondônia. As barras para Cerveja e Molho de Tomate são as mais altas, indicando que têm os preços medianos mais altos entre os produtos listados. A barra para Basta Plástica é notavelmente mais curta do que as outras, mostrando que tem um dos preços medianos mais baixos.
-
-Aqui está a tabela com as medianas de preço para cada produto:
-
-| Produto          | Mediana de Preço |
-|-------------------|-------------------|
-| Arroz             | 20                |
-| Açúcar            | 5                 |
-| Carne             | 30                |
-| Cerveja           | 700               |
-| Feijão            | 15                |
-| Ketchup           | 5                 |
-| Macarrão          | 10                |
-| Molho de Tomate   | 700               |
-| Queijo            | 50                |
